@@ -1,0 +1,17 @@
+{
+    "Name": "ImprovisedFaceMask",
+    "RequiredGear": [{"Item":"GEAR_Cloth","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_SewingKit","GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ImprovisedFaceMask",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "Play_CraftingCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

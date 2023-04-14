@@ -1,0 +1,21 @@
+loottable=Dresser
+item=SkiGoggles w=2
+item=SkiMask w=2
+item=BeanieCap w=2
+
+loottable=BackPack
+item=SkiGoggles w=1
+item=SkiMask w=1
+item=BeanieCap w=1
+
+loottable=Wardrobe_regular
+item=PrisonPants w=1
+item=PrisonShirt w=1
+item=PrisonCoat w=1
+item=SkiGoggles w=1
+item=SkiMask w=1
+item=BeanieCap w=1
+
+loottable=FirstAidKit
+item=MedicalFaceMask w=1
+

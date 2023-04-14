@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: clothing-pack
+  m_EditorClassIdentifier: 
+  m_GroupName: clothing-pack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: df663e4f23ad5a54b8c64fe2d9c92dcb
+  m_SerializeEntries:
+  - m_GUID: 04c90d40187f590429edd636e234962c
+    m_Address: clth_blend_all_F_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c077fedf42c8c946ad50e448d10d8d1
+    m_Address: clth_blend_skimask_F_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e716580dfe240f4f9b515f418d098ed
+    m_Address: CLTH_FarmBoots_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 163c1c75d8848e54daa8195dc0b29e07
+    m_Address: CLTH_FarmBoots_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a778988ec66ad0e4a8fd20d8607bc39b
+    m_Address: CLTH_Hed_BeanieCap_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8504c7a31d3f54e46b01e92bb452fc5e
+    m_Address: CLTH_Hed_BeanieCap_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c2cd629cb26f4d4eb4ea59dff82a2df
+    m_Address: clth_hed_skigoggles_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87b5c621f4c154c43888718b1b4e497a
+    m_Address: clth_hed_skigoggles_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d87a01aba5c1d2b458302d9d793024e3
+    m_Address: clth_hed_skimask_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5caa0a49a9cbd094281646876034885e
+    m_Address: clth_hed_skimask_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d909a28a4e9976b4b81d8d34e295b27f
+    m_Address: CLTH_ImprovisedMask_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64d2d390b15233448a324216c075e317
+    m_Address: CLTH_ImprovisedMask_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50ac1788bba9a53488b7ddc56b29787c
+    m_Address: CLTH_MedicalMask_HMF_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ef6007557cd6094d894190a37d506d5
+    m_Address: CLTH_MedicalMask_HMF__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9935d6b5df8fd5349baa8bfb3c3f017a
+    m_Address: clth_blend_all_M_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fcdf8867fd0c2d4c8e715f8bc4ec0c7
+    m_Address: clth_blend_skimask_M_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41ba6637fc8b74045932f10b35c7e6f3
+    m_Address: CLTH_FarmBoots_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62e1a2b9d7d39cc44a8edc437251c90f
+    m_Address: CLTH_FarmBoots_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b884d93cfbfceb428a6421c24cfe0df
+    m_Address: CLTH_Hed_BeanieCap_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5d436b408f7e4447ac4b60ec671fa24
+    m_Address: CLTH_Hed_BeanieCap_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bb15c24db2e09842b48dd720471c8c0
+    m_Address: clth_hed_skigoggles_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 076be348ec2555a428c5bbe7efd32c77
+    m_Address: clth_hed_skigoggles_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b738d7babc174c146b7bcd3d8d69e6f5
+    m_Address: clth_hed_skimask_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a446aba939261964f9444644f4ae16ef
+    m_Address: clth_hed_skimask_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d74f1732ef3849449f4ff2985de3987
+    m_Address: CLTH_ImprovisedMask_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2065f62f46d8ca94aa965b806f60ef5d
+    m_Address: CLTH_ImprovisedMask_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7bcb0c2d3776d844ad159ccb97bf3df
+    m_Address: CLTH_MedicalMask_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eae623cc30c1ac3438c038c257da5de4
+    m_Address: CLTH_MedicalMask_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c65fe0a0adb564f47bf144ebdee9f7f4
+    m_Address: ico_CraftItem__ImprovisedFaceMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72a1a14222a7c8643bac3260e5978d46
+    m_Address: ico_GearItem__BeanieCap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78d1fda406d60674abc96503681c963f
+    m_Address: ico_GearItem__FarmBoots
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a69bdc985db74c744aa6bf7dec08f366
+    m_Address: ico_GearItem__ImprovisedFaceMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f99df6af7d179294e90309d95d85cb80
+    m_Address: ico_GearItem__MedicalFaceMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8eb0190ba8c47be46a024461a325c8b1
+    m_Address: ico_GearItem__SkiGoggles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cd6bdaab0dd37f41a522f9f474cdc89
+    m_Address: ico_GearItem__SkiMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfa45524aee47e947a0cd45f4a522c0d
+    m_Address: GEAR_BeanieCap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1077e21bafd520746bf288c8a55beaee
+    m_Address: GEAR_FarmBoots
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 652891c741edf234a91a0b59a7c4a51f
+    m_Address: GEAR_ImprovisedFaceMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fafa219cf09cfb94f8ea3dd0a2126ad6
+    m_Address: GEAR_MedicalFaceMask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31163f2b827d24041bcec2ee971ebe0c
+    m_Address: GEAR_SkiGoggles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 635cceb4f55c15a4e8474a628b7b11a1
+    m_Address: GEAR_Skimask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f29a5be22a4715547ba3672f146f7292
+    m_Address: GEAR_PrisonShirt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bc8f27fd92597d439124348eee6ec01
+    m_Address: GEAR_PrisonPants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bce759cee2f62b7408ccc539509b1925
+    m_Address: GEAR_PrisonCoat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea3b6abe8109b6b44b12a73dd6c5a52b
+    m_Address: ico_GearItem__PrisonShirt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5f80aa31c5542842bca9bdba9a9ce08
+    m_Address: ico_GearItem__PrisonPants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa664a9f7dd73b54c8e5d56ca4bee2cb
+    m_Address: ico_GearItem__PrisonCoat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0518e75aacef554aa1912f3dd667b2f
+    m_Address: CLTH_PrisonShirt_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 946b90761864cd245a4e4cc979ed8501
+    m_Address: CLTH_PrisonShirt_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b692ce1a8961314bb8fb26076963a75
+    m_Address: CLTH_PrisonPants_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6ba2f9565f9dd549acc5ddf93774eea
+    m_Address: CLTH_PrisonPants_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 845c9acc8010fc74696a714aaf41e9d2
+    m_Address: CLTH_PrisonCoat_HMM__dmg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80de0c529b9c6954984204945b9fda30
+    m_Address: CLTH_PrisonCoat_HMM_
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cb82facc1c4de4479b759052baf081d
+    m_Address: ico_CraftItem__PrisonPants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d64f5c60a799c14ea48441e55f9af5d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8402fc3122985746829fd660ccbcb6a, type: 2}
+    - {fileID: 11400000, guid: 6f3536da5b262ac4aa157d4decb17031, type: 2}
