@@ -14,3 +14,10 @@ The clothing pack items apart from Prison Shirt, Prison Pants and Padded Jacket 
 
 ### Installation ###
 ---
+- If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
+- If you haven't done so already, install the latest version of ModComponent and its dependencies.
+- Download ClothingPackByTKG.modcomponent from the releases page
+- Move ClothingPackByTKG.modcomponent into your mods folder.
+
+
+Dependencies; ModSettings, ModComponent.
