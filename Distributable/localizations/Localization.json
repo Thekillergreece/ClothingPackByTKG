@@ -7,7 +7,8 @@
 		"Italian": "Occhiali da sci",
 		"Polish": "Gogle narciarskie",
 		"French (France)": "Lunettes de ski",
-		"Simplified Chinese": "滑雪镜"
+		"Simplified Chinese": "滑雪镜",
+		"Japanese": "スキー用ゴーグル"
 	},
 	"GAMEPLAY_SkiGogglesDescription": {
 		"English": "Finally something to protect the eyes from bright light and the cold.",
@@ -17,7 +18,8 @@
 		"Italian": "Finalmente qualcosa per proteggere gli occhi dalla luce e dal freddo.",
 		"Polish": "Wreszcie coś do ochrony oczu przed słońcem i chłodem",
 		"French (France)": "Enfin quelque chose pour protéger les yeux de la lumière vive et du froid.",
-		"Simplified Chinese": "最后是保护眼睛免受强光和寒冷的影响。"
+		"Simplified Chinese": "最后是保护眼睛免受强光和寒冷的影响。",
+		"Japanese": "まぶしすぎる光や寒さから両目を守ってくれる最高の一品。"
 	},
 	"GAMEPLAY_SkiMask": {
 		"English": "Ski Mask",
@@ -27,7 +29,8 @@
 		"Italian": "Maschera da sci",
 		"Polish": "Maska narciarska",
 		"French (France)": "Masque de ski",
-		"Simplified Chinese": "滑雪面罩"
+		"Simplified Chinese": "滑雪面罩",
+		"Japanese": "スキー用マスク"
 	},
 	"GAMEPLAY_SkiMaskDescription": {
 		"English": "Very warm ski mask, covering most of the face.",
@@ -37,7 +40,8 @@
 		"Italian": "Una maschera da sci che tiene caldo, coprendo la maggior parte della faccia.",
 		"Polish": "Bardzo ciepła maska narciarska zakrywająca większość twarzy",
 		"French (France)": "Masque de ski très chaud, couvrant la majeure partie du visage.",
-		"Simplified Chinese": "非常温暖的滑雪面膜，覆盖大部分脸部。"
+		"Simplified Chinese": "非常温暖的滑雪面膜，覆盖大部分脸部。",
+		"Japanese": "顔をほとんど覆ってくれるとても暖かいスキー用のマスク。"
 	},
 	"GAMEPLAY_BeanieCap": {
 		"English": "Beanie Cap",
@@ -46,7 +50,8 @@
 		"Italian": "Berretto",
 		"Polish": "Beanie",
 		"French (France)": "Bonnet",
-		"Simplified Chinese": "豆豆帽"
+		"Simplified Chinese": "豆豆帽",
+		"Japanese": "ビーニーキャップ"
 	},
 	"GAMEPLAY_BeanieCapDescription": {
 		"English": "A warm hat for being out in the cold.",
@@ -55,7 +60,8 @@
 		"Italian": "Un cappello che ti terrà al caldo.",
 		"Polish": "Ciepła wełniana czapka na mroźne dni",
 		"French (France)": "Un couvre-chef chaud pour sortir dans le froid.",
-		"Simplified Chinese": "一顶温暖的帽子，可以在寒冷中外出。"
+		"Simplified Chinese": "一顶温暖的帽子，可以在寒冷中外出。",
+		"Japanese": "寒い中外出するのに良い暖かい帽子。"
 	},
 	"GAMEPLAY_ImprovisedFaceMask": {
 		"English": "Face Mask",
@@ -64,7 +70,8 @@
 		"Italian": "Maschera",
 		"Polish": "Maska na twarz",
 		"French (France)": "Masque",
-		"Simplified Chinese": "口罩"
+		"Simplified Chinese": "口罩",
+		"Japanese": "手作りマスク"
 	},
 	"GAMEPLAY_MedicalFaceMask": {
 		"English": "Face Mask",
@@ -73,7 +80,8 @@
 		"Italian": "Maschera",
 		"Polish": "Maska na twarz",
 		"French (France)": "Masque",
-		"Simplified Chinese": "口罩"
+		"Simplified Chinese": "口罩",
+		"Japanese": "医療用マスク"
 	},
 	"GAMEPLAY_FaceMaskDescription": {
 		"English": "Sometime before the apocalypse, people used to wear these everywhere.",
@@ -82,7 +90,8 @@
 		"Italian": "Prima dell'apocalisse le persone le indossavano dappertutto.",
 		"Polish": "Kiedyś, przed apokalipsą, ludzie nosili je wszędzie",
 		"French (France)": "Quelque temps avant l'apocalypse, les gens portaient ça partout.",
-		"Simplified Chinese": "在世界末日之前的某个时候，人们过去常常穿着这些。"
+		"Simplified Chinese": "在世界末日之前的某个时候，人们过去常常穿着这些。",
+		"Japanese": "あの日が来る以前から、人々はどこでもこれをしていた。"
 	},
 	"GAMEPLAY_FarmBoots": {
 		"English": "Farmer's Boots",
@@ -91,7 +100,8 @@
 		"Italian": "Stivali da contadino",
 		"Polish": "Buty farmerskie",
 		"French (France)": "Bottes de fermier",
-		"Simplified Chinese": "农夫靴"
+		"Simplified Chinese": "农夫靴",
+		"Japanese": "長靴"
 	},
 	"GAMEPLAY_FarmBootsDescription": {
 		"English": "Not very warm, but tough and made for working.",
@@ -100,24 +110,31 @@
 		"Italian": "Non tengono molto caldo, ma sono robusti e fatti per lavorare.",
 		"Polish": "Niezbyt ciepłe, ale wytrzymałe i przeznaczone do pracy",
 		"French (France)": "Pas très chaudes, mais résistantes et faites pour travailler.",
-		"Simplified Chinese": "不是很温暖，但坚韧，适合工作。"
+		"Simplified Chinese": "不是很温暖，但坚韧，适合工作。",
+		"Japanese": "あまり暖かくはないが、丈夫で仕事向きに作られている。"
 	},
 	"GAMEPLAY_PrisonCoat": {
 		"English": "Padded flight jacket",
+		"Japanese": "パッド付きフライトジャケット。"
 	},
 	"GAMEPLAY_PrisonCoatDescription": {
 		"English": "Somewhat warm, well worn. Someone probably wore it just recently.",
+		"Japanese": "やや暖かく着心地もいい。つい最近まで誰かが着ていたものなのは間違いないだろう。"
 	},
 	"GAMEPLAY_PrisonPants": {
 		"English": "Prison Pants",
+		"Japanese": "囚人用ズボン"
 	},
 	"GAMEPLAY_PrisonPantsDescription": {
 		"English": "Prisoner pants. Not so warm but better than nothing.",
+		"Japanese": "囚人用のズボン。さして暖かくないが何もないよりはましだ。"
 	},
 	"GAMEPLAY_PrisonShirt": {
 		"English": "Prison Shirt",
+		"Japanese": "囚人用シャツ"
 	},
 	"GAMEPLAY_PrisonShirtDescription": {
 		"English": "Prisoners used to wear these until the apocalypse happened.",
+		"Japanese": "あの日が来るまでは囚人たちはこれを着ていた。"
 	},
 }
