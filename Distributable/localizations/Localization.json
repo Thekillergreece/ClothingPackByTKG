@@ -19,7 +19,7 @@
 		"Polish": "Wreszcie coś do ochrony oczu przed słońcem i chłodem",
 		"French (France)": "Enfin quelque chose pour protéger les yeux de la lumière vive et du froid.",
 		"Simplified Chinese": "最后是保护眼睛免受强光和寒冷的影响。",
-		"Japanese": "まぶしすぎる光や寒さから両目を守ってくれる最高の一品。"
+		"Japanese": "まぶしすぎる光や寒さから両目を守る最後の手立て。"
 	},
 	"GAMEPLAY_SkiMask": {
 		"English": "Ski Mask",
@@ -91,7 +91,7 @@
 		"Polish": "Kiedyś, przed apokalipsą, ludzie nosili je wszędzie",
 		"French (France)": "Quelque temps avant l'apocalypse, les gens portaient ça partout.",
 		"Simplified Chinese": "在世界末日之前的某个时候，人们过去常常穿着这些。",
-		"Japanese": "あの日が来る以前から、人々はどこでもこれをしていた。"
+		"Japanese": "大崩壊が起こる以前から、人々はどこでもこれをしていた。"
 	},
 	"GAMEPLAY_FarmBoots": {
 		"English": "Farmer's Boots",
@@ -111,7 +111,7 @@
 		"Polish": "Niezbyt ciepłe, ale wytrzymałe i przeznaczone do pracy",
 		"French (France)": "Pas très chaudes, mais résistantes et faites pour travailler.",
 		"Simplified Chinese": "不是很温暖，但坚韧，适合工作。",
-		"Japanese": "あまり暖かくはないが、丈夫で仕事向きに作られている。"
+		"Japanese": "とても暖かくはないが、丈夫で作業向きに作られている。"
 	},
 	"GAMEPLAY_PrisonCoat": {
 		"English": "Padded flight jacket",
@@ -135,6 +135,6 @@
 	},
 	"GAMEPLAY_PrisonShirtDescription": {
 		"English": "Prisoners used to wear these until the apocalypse happened.",
-		"Japanese": "あの日が来るまでは囚人たちはこれを着ていた。"
+		"Japanese": "大崩壊が起こるまでは囚人たちはこれを着ていた。"
 	},
 }
